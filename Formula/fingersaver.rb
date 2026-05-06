@@ -1,9 +1,9 @@
 class Fingersaver < Formula
   desc "AI coding agent orchestrator with split-pane TUI"
   homepage "https://github.com/cybernagle/fingersaver"
-  url "https://github.com/cybernagle/fingersaver/archive/refs/tags/v0.4.9.tar.gz"
-  sha256 "781dcf3b02cae9de50958fe4b08ac09bef797b4d9de7b26f217571a994a679e3"
-  version "0.4.9"
+  url "https://github.com/cybernagle/fingersaver/archive/refs/tags/v0.4.11.tar.gz"
+  sha256 "54e9e3aa79ab72503b329c2f9b6b8a1fb0975bee631919029257af89d2eba79b"
+  version "0.4.11"
 
   depends_on "go" => :build
   depends_on "tmux"
